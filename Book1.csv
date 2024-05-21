@@ -1,0 +1,5 @@
+filename,text,font,color,justify,font_size
+a,Hello World,Arial,black,left 20,
+b,tes text ,Times New Roman,red,middle,24
+c,abc,Courier New,blue,end,18
+d,def,Sans-serif,green,middle,22

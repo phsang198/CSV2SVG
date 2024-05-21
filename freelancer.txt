@@ -1,0 +1,13 @@
+given the following cvs format. filename,text,font,color,font_justify,font_size.  write a svg file. 
+given
+filename	text	font	color	justify	font_size
+a	Hello World	Arial	black	left 20
+b	tes text 	Times New Roman	red	middle	24
+c	abc	Courier New	blue	end	18
+d	def	Sans-serif	green	middle	22
+
+woud write a file named a.svg contaning "Hello World" font arial color black justify left with a font size of 20. 
+
+etc for each row. 
+
+iqnore any collum after 6, which may contain data. 
